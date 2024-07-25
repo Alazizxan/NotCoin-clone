@@ -37,13 +37,13 @@
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/YourUsername/CryptoBot-App-Clone.git
+    git clone https://github.com/Alazizxan/NotCoin-clone.git
     ```
 
 2. **Install dependencies**
 
     ```bash
-    cd CryptoBot-App-Clone
+    cd NotCoin-clone
     npm install
     # or
     yarn install
